@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ceyda!</h1>
-<h3 align="center">A highly motivated and enthusiastic computer engineer with a strong passion for playing & developing games. I have 1 year of professional experience working with Unreal Engine 5, primarily on UI systems and gameplay mechanics. Additionally, I have worked with Multiplayer features and the Gameplay Ability System (GAS).</h3>
-
-- 🌱 I’m currently working with **Unreal Engine & C++** and always looking to learn and improve.
+<h3 align="center">A highly motivated and enthusiastic computer engineer with a strong passion for playing & developing games. I’m currently working with **Unreal Engine & C++** and always looking to learn and improve.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
