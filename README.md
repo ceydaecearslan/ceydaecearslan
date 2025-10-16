@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ceyda!</h1>
-<h3 align="center">A highly motivated and enthusiastic computer engineer with a strong passion for playing & developing games. I’m currently working with **Unreal Engine & C++** and always looking to learn and improve.
+<h3 align="center">A highly motivated and enthusiastic computer engineer with a strong passion for playing & developing games. I’m currently working with Unreal Engine & C++ and always looking to learn and improve.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
